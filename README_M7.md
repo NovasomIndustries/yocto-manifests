@@ -223,8 +223,7 @@ See *bsp-novasom-m7/sources/meta-novasom/recipes-core/images/m7-basic-image.bb* 
 
 You can also create into your layer *.bbappend* to customize existing images (i.e. *m7-basic-image.bbappend*)
 
-With the image customizazation you can add standard contents (recipes) to your images (i.e. a web server, an ftp client, libraries, python, ....) and/or add your own recipes that contains yow application software. 
+With the image customization you can add standard contents (recipes) to your images (i.e. a web server, an ftp client, libraries, python, ....) and/or add your own recipes that contains yow application software. 
 
 ---
 
-Maintainer: Geninatti Paolo <tech@pagit.eu>
