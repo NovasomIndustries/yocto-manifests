@@ -18,7 +18,7 @@ This procedure has to be used only the fisrt time that you install and build NOV
 	cd <your_preferred_work_folder>
 	mkdir bsp-novasom-m7
 	cd bsp-novasom-m7
-	repo init -u git@github.com:pagit2018/yocto-manifests.git -b master -m novasom-m7.xml
+	repo init -u git@github.com:Novasomindustries/yocto-manifests.git -b master -m novasom-m7.xml
 	repo sync
 	TEMPLATECONF=../meta-novasom/conf/template/novasom-m7 source setup-environment build
 	bitbake <image_name>
