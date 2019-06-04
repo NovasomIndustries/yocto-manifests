@@ -5,5 +5,3 @@ See board specific sessions for information about related Yocto BSP build and us
 
 * [NOVAsom M7](README_M7.md)
 
----
-Maintainer: Geninatti Paolo <tech@pagit.eu>
